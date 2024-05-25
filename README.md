@@ -31,7 +31,7 @@ Contributing Contributions are always welcome!
  2. Clone your forked copy of the project.
 ```  git clone  htpps://github.com/your-username/jobproject.git```
  3. Add reference to original repository,use the following command
- ``` git remote add upstream htpps://github.com/your-username/jobproject.git ```
+ ``` git remote add upstream htpps://github.com/harshita2209/jobproject.git ```
  4. Check the remotes for this repository,use following command. 
    ```git remote -v```
  
@@ -39,7 +39,7 @@ Contributing Contributions are always welcome!
            to keep it up-to-date with the main
            ```git pull upstream main```
  6. Create a new branch.
- ``` git checkout -b <your_branch_name>```
+ ``` git checkout -b <harshita>```
  
  7. You are all set ! Perfom your desired changes to the code base.
  8. Track your changes. 
