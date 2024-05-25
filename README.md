@@ -48,7 +48,7 @@ Contributing Contributions are always welcome!
   ```git commit -m "relevant commit message"```
  10. Push the committed changes in your feature branch to your remote
      repo.
-     ``` git push -u origin <your_branch_name>```
+     ``` git push -u origin <harshita>```
  11. To create a pull request, click on "Compare and pull requests".
      Please ensure you compare your feature branch to the desired branch
      of the repo you are suppose to make a PR to.
